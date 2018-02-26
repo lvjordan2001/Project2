@@ -1,28 +1,32 @@
 {
   "Careers":[
    {
-   "MOS":
+   "MOS": "Rifleman",
    "Objectives":
    "Pay":
-   "Qualifications":
+   "Qualifications": ["GT score 80+", "Complete Rifleman Course"],
+   "Percentage of Acceptees":
    },
    {
-   "MOS":
+   "MOS": "Machine Gunner",
    "Objectives":
    "Pay":
-   "Qualifications":
+   "Qualifications": ["GT score 80+", "Complete Machine Gunner Course"],
+   "Percentage of Acceptees":
    },
    {
-   "MOS":
-   "Objectives":
-   "Pay":
-   "Qualifications":
+   "MOS": "Scout Sniper",
+   "Objectives": "Scout ahead for enemies and take out by a distance; identify targets and raids.',
+   "Pay": "49,000 annually, adding past LCPL.",
+   "Qualifications": ["20/20 Vision", "No history of mental illness", "expert rifleman", "GT score 100+", "Volunteer", "LCPL+"]
+   "Percentage of Acceptees":
    },
    {
-   "MOS":
+   "MOS": "Military Police",
    "Objectives":
    "Pay":
-   "Qualifications":
+   "Qualifications": ["US Citizen", "GT score 100+"]
+   "Percentage of Acceptees":
    }
   ]
  }
