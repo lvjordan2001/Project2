@@ -1,0 +1,44 @@
+{
+  "Careers":[
+   {
+   "MOS": "Rifleman",
+   "Objectives": "Basic Marine, accomplish missions and neutralize enemies.",
+   "Pay": "Average 24,000 annually, adds with rank",
+   "Qualifications": ["GT score 80+", "Complete Rifleman Course"],
+   "Acceptees": "Around 50% (Basic Marine acceptance, as Rifleman is basic)",
+   "Picture": "https://report.az/storage/news/e164509fb2e8d8b122ec4552a93716ff/d9fed452-dffd-473d-a96d-9f9991ca21fa.jpg"
+   },
+   {
+   "MOS": "Machine Gunner",
+   "Objectives": "Provide support for the platoon, using LMG's and SAW's to cover other riflemen.",
+   "Pay": "Average 24,000 annually, adds with rank",
+   "Qualifications": ["GT score 80+", "Complete Machine Gunner Course"],
+   "Acceptees": "Around 50% (Basic Marine acceptance, as Machine Gunner is basic)",
+   "Picture": "https://s-media-cache-ak0.pinimg.com/originals/2b/67/c7/2b67c7ffb0768327ca83784056e1355b.jpg"
+   },
+   {
+   "MOS": "Scout Sniper",
+   "Objectives": "Scout ahead for enemies and take out by a distance; identify targets and raids.",
+   "Pay": "Average 49,000 annually, adds with rank",
+   "Qualifications": ["20/20 Vision", "No history of mental illness", "expert rifleman", "GT score 100+", "Volunteer", "LCPL+"],
+   "Acceptees": "PLACEHOLDER",
+   "Picture": "https://cdn.athlonoutdoors.com/wp-content/uploads/sites/8/2013/12/Preview-USMC-Scout-Sniper-School.jpg"
+   },
+   {
+   "MOS": "Military Police",
+   "Objectives": "Enforce military law on bases and FOB's, including crimes such as friendly fire.",
+   "Pay": "Average 40,000 annually, adds with rank",
+   "Qualifications": ["US Citizen", "GT score 100+"],
+   "Acceptees": "PLACEHOLDER",
+   "Picture": "http://haaszkft.com/wp-content/uploads/2018/02/usmc-military-police-preschool-to-sweet-draw-paint.jpg"
+   },
+   {
+   "MOS": "Marine Raider",
+   "Objectives": "Special forces, deploy behind enemy lines, amphibious light infantry warfare.",
+   "Pay": "Average 30,000 annually, adds with rank. (Basic pay as no pay charts have been released by the Marine Corps.)",
+   "Qualifications": ["Marine for 3+ years", "Marine Special Operations Course"],
+   "Acceptees": "PLACEHOLDER",
+   "Picture": "https://static1.squarespace.com/static/50911f6ce4b08a6452e3cde0/56d5aba95559864dfe4dc1e9/56d5ace48259b57a20260ee2/1456844342656/_DSC0588.jpg"
+   }
+  ]
+ }
