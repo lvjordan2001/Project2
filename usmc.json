@@ -12,7 +12,7 @@
    "Objectives": "Provide support for the platoon, using LMG's and SAW's to cover other riflemen.",
    "Pay": "Average 24,000 annually, adds with rank",
    "Qualifications": ["GT score 80+", "Complete Machine Gunner Course"],
-   "PAcceptees": "Around 50% (Basic Marine acceptance, as Machine Gunner is basic)"
+   "Acceptees": "Around 50% (Basic Marine acceptance, as Machine Gunner is basic)"
    },
    {
    "MOS": "Scout Sniper",
