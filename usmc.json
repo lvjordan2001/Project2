@@ -5,28 +5,28 @@
    "Objectives": "Basic Marine, accomplish missions and neutralize enemies.",
    "Pay": "Average 24,000 annually, adds with rank",
    "Qualifications": ["GT score 80+", "Complete Rifleman Course"],
-   "Percentage of Acceptees": "Around 50% (Basic Marine acceptance, as Rifleman is basic)"
+   "Acceptees": "Around 50% (Basic Marine acceptance, as Rifleman is basic)"
    },
    {
    "MOS": "Machine Gunner",
    "Objectives": "Provide support for the platoon, using LMG's and SAW's to cover other riflemen.",
    "Pay": "Average 24,000 annually, adds with rank",
    "Qualifications": ["GT score 80+", "Complete Machine Gunner Course"],
-   "Percentage of Acceptees": "Around 50% (Basic Marine acceptance, as Machine Gunner is basic)"
+   "PAcceptees": "Around 50% (Basic Marine acceptance, as Machine Gunner is basic)"
    },
    {
    "MOS": "Scout Sniper",
    "Objectives": "Scout ahead for enemies and take out by a distance; identify targets and raids.",
    "Pay": "Average 49,000 annually, adds with rank",
    "Qualifications": ["20/20 Vision", "No history of mental illness", "expert rifleman", "GT score 100+", "Volunteer", "LCPL+"],
-   "Percentage of Acceptees": "PLACEHOLDER"
+   "Acceptees": "PLACEHOLDER"
    },
    {
    "MOS": "Military Police",
    "Objectives": "Enforce military law on bases and FOB's, including crimes such as friendly fire.",
    "Pay": "Average 40,000 annually, adds with rank",
    "Qualifications": ["US Citizen", "GT score 100+"],
-   "Percentage of Acceptees": "PLACEHOLDER"
+   "Acceptees": "PLACEHOLDER"
    }
   ]
  }
